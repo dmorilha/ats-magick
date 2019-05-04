@@ -28,7 +28,7 @@ The `test.sh` script, helps verifing ImageMagick's convert works. The script out
 
 `
 
-##ImageMagick's convert examples:
+## ImageMagick's convert examples:
 
 `convert input.jpg -flip output.jpg;`
 
